@@ -2,7 +2,7 @@
 
 react-s-carousel实现了轮播功能，可以水平，垂直方向轮播与滑动
 
-![](https://github.com/1035901787/react-s-listview/blob/master/source/20180506112030.gif)
+![](https://github.com/1035901787/react-s-carousel/blob/master/sources/QQ20190604-163419.gif)
 
 # 安装
 
