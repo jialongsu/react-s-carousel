@@ -1,0 +1,31 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.hcarousel{
+	width: 100% !important;
+	height: 180px !important;
+	background-color: transparent !important;
+}
+.util {
+    height: 100%;
+	width: 100%;
+    font-size: 26px;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.demoIem{
+    background-color: red;
+    @extend .util;
+}
+.demoIem2{
+    background-color: peru;
+    @extend .util;
+}
+.demoIem3{
+    background-color: yellow;
+    @extend .util;
+}
