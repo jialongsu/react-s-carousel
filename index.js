@@ -1,3 +1,3 @@
-import Carousel from './lib/Carousel/Carousel';
+import Carousel from './plib/Carousel/Carousel';
 
 export default Carousel;
